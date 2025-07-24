@@ -7,7 +7,9 @@ A beautiful and responsive weather app built with **Node.js**, **Express**, and 
 ### 🔍 Preview
 
 ![Weather App Screenshot]
-![App Screenshot]((https://github.com/Nareshsirvi104/weather-app/blob/main/Screenshot%202025-07-24%20141140.png)?raw=true)
+![App Screenshot](https://github.com/Nareshsirvi104/weather-app/blob/main/Screenshot%202025-07-24%20141140.png?raw=true)
+
+---
 
 
 
